@@ -16,8 +16,16 @@
 # and
 #   about_triangle_project_2.py
 #
+
+import itertools
+
+
 def triangle(a, b, c):
-    if a == b == c:
+    if any(s <= 0 for s in [a, b, c]):
+        raise TriangleError()
+    elif any(s1 > s2 + s3 for s1, s2, s3 in itertools.permutations([a, b, c])):
+        raise TriangleError()
+    elif a == b == c:
         return 'equilateral'
     elif a == b or b == c or a == c:
         return 'isosceles'

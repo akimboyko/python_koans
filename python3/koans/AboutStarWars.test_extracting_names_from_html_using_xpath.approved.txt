@@ -1,0 +1,521 @@
+{
+    "INT. REBEL BLOCKADE RUNNER - MAIN PASSAGEWAY": {
+        "THREEPIO": 4
+    },
+    "INT. REBEL BLOCKADE RUNNER": {
+        "THREEPIO": 5
+    },
+    "EXT. TATOOINE - DESERT WASTELAND - DAY": {
+        "LUKE": 1
+    },
+    "INT. REBEL BLOCKADE RUNNER - CORRIDOR": {
+        "IMPERIAL OFFICER": 1,
+        "VADER": 4,
+        "REBEL OFFICER": 1
+    },
+    "INT. REBEL BLOCKADE RUNNER - SUBHALLWAY": {
+        "TROOPER": 2,
+        "THREEPIO": 4
+    },
+    "INT. IMPERIAL STARDESTROYER": {
+        "CHIEF PILOT": 1,
+        "CAPTAIN": 1
+    },
+    "INT. LIFEPOD": {
+        "THREEPIO": 2
+    },
+    "EXT. TATOOINE - ANCHORHEAD SETTLEMENT - POWER STATION - DAY": {
+        "WOMAN": 1,
+        "LUKE": 14,
+        "BIGGS": 14
+    },
+    "INT. POWER STATION - DAY": {
+        "FIXER": 1,
+        "CAMIE": 1,
+        "LUKE": 4,
+        "BIGGS": 2,
+        "DEAK": 1
+    },
+    "EXT. TATOOINE - ANCHORHEAD - SETTLEMENT - POWER STATION -": {
+        "DAY": 1,
+        "LUKE": 3,
+        "BIGGS": 1,
+        "CAMIE": 1,
+        "FIXER": 1
+    },
+    "INT. REBEL BLOCKADE RUNNER - HALLWAY": {
+        "LEIA": 2,
+        "VADER": 5,
+        "COMMANDER": 3,
+        "SECOND OFFICER": 1
+    },
+    "EXT. TATOOINE - DESERT": {
+        "THREEPIO": 10
+    },
+    "EXT. TATOOINE - DUNE SEA": {
+        "THREEPIO": 3
+    },
+    "INT. SANDCRAWLER - PRISON AREA": {
+        "THREEPIO": 1
+    },
+    "EXT. TATOOINE - DESERT - DAY": {
+        "FIRST TROOPER": 1,
+        "SECOND TROOPER": 1
+    },
+    "INT. SANDCRAWLER": {
+        "THREEPIO": 4
+    },
+    "EXT. TATOOINE - DESERT - LARS HOMESTEAD - AFTERNOON": {
+        "BERU": 1,
+        "LUKE": 9,
+        "OWEN": 10,
+        "THREEPIO": 7
+    },
+    "INT. LARS HOMESTEAD - GARAGE AREA - LATE AFTERNOON": {
+        "THREEPIO": 22,
+        "LUKE": 21,
+        "LEIA": 3,
+        "AUNT BERU": 1
+    },
+    "INT. LARS HOMESTEAD - DINING AREA": {
+        "LUKE": 10,
+        "OWEN": 10,
+        "AUNT BERU": 3
+    },
+    "INT. LARS HOMESTEAD - GARAGE": {
+        "LUKE": 2,
+        "THREEPIO": 1
+    },
+    "EXT. TATOOINE - LARS HOMESTEAD": {
+        "THREEPIO": 3,
+        "LUKE": 5,
+        "OWEN": 1
+    },
+    "INT. LARS HOMESTEAD - PLAZA": {
+        "OWEN": 1
+    },
+    "INT. LARS HOMESTEAD - KITCHEN": {
+        "OWEN": 3,
+        "AUNT BERU": 2
+    },
+    "INT./EXT. LUKE'S SPEEDER - DESERT WASTELAND - TRAVELING -": {
+        "DAY": 1,
+        "LUKE": 4,
+        "THREEPIO": 2
+    },
+    "EXT. TATOOINE - ROCK CANYON - FLOOR": {
+        "LUKE": 5,
+        "THREEPIO": 3
+    },
+    "EXT. TATOOINE - ROCK CANYON - RIDGE - DAY": {
+        "LUKE": 1
+    },
+    "EXT. TATOOINE - ROCK CANYON - FLOOR - DAY": {
+        "BEN": 9,
+        "LUKE": 7
+    },
+    "EXT. TATOOINE - SAND PIT - ROCK MESA - DAY": {
+        "THREEPIO": 2,
+        "LUKE": 2,
+        "BEN": 1
+    },
+    "INT. KENOBI'S DWELLING": {
+        "LUKE": 12,
+        "BEN": 15,
+        "THREEPIO": 1,
+        "LEIA": 1
+    },
+    "INT. DEATH STAR - CONFERENCE ROOM": {
+        "TAGGE": 4,
+        "MOTTI": 3,
+        "TARKIN": 14,
+        "VADER": 11,
+        "OFFICER CASS": 1,
+        "VOICE": 1,
+        "INTERCOM VOICE": 1
+    },
+    "EXT. TATOOINE - WASTELAND": {
+        "LUKE": 5,
+        "BEN": 5
+    },
+    "INT. DEATH STAR - DETENTION CORRIDOR": {
+        "VADER": 1,
+        "LUKE": 2,
+        "HAN": 5,
+        "LEIA": 2
+    },
+    "EXT. TATOOINE - MOS EISLEY - STREET": {
+        "TROOPER": 9,
+        "LUKE": 5,
+        "BEN": 8,
+        "THREEPIO": 6
+    },
+    "INT. TATOOINE - MOS EISLEY - CANTINA": {
+        "BARTENDER": 3,
+        "LUKE": 6,
+        "THREEPIO": 1,
+        "CREATURE": 1,
+        "HUMAN": 4,
+        "BEN": 8,
+        "HAN": 11,
+        "TROOPER": 1
+    },
+    "INT. MOS EISLEY - CANTINA": {
+        "GREEDO": 6,
+        "HAN": 7
+    },
+    "INT. DEATH STAR - CONTROL ROOM": {
+        "VADER": 3,
+        "IMPERIAL OFFICER": 1,
+        "TARKIN": 14,
+        "TROOPER": 1,
+        "MOTTI": 1,
+        "LEIA": 8,
+        "DEATH STAR INTERCOM VOICE": 4,
+        "OFFICER": 1,
+        "VOICE": 1
+    },
+    "EXT. TATOOINE - MOS EISLEY - STREET - ALLEYWAY - USED": {
+        "SPEEDER LOT": 1,
+        "LUKE": 1,
+        "BEN": 2
+    },
+    "INT. DOCKING BAY 94 - DAY": {
+        "JABBA": 6,
+        "HAN": 6
+    },
+    "INT. MOS EISLEY SPACEPORT - DOCKING BAY 94": {
+        "LUKE": 1,
+        "HAN": 2,
+        "THREEPIO": 1
+    },
+    "INT. MOS EISLEY SPACEPORT - DOCKING BAY 94]": {
+        "TROOPER": 2
+    },
+    "INT. MILLENNIUM FALCON": {
+        "HAN": 1,
+        "THREEPIO": 1
+    },
+    "INT. MILLENNIUM FALCON - COCKPIT": {
+        "HAN": 34,
+        "LUKE": 18,
+        "BEN": 8,
+        "LEIA": 7
+    },
+    "INT. DEATH STAR - BLAST CHAMBER": {
+        "VADER": 1
+    },
+    "INT. MILLENNIUM FALCON - CENTRAL HOLD AREA": {
+        "LUKE": 6,
+        "BEN": 11,
+        "HAN": 12,
+        "THREEPIO": 4,
+        "LEIA": 1
+    },
+    "EXT. DEATH STAR - HUGE PORT DOORS": {
+        "VOICE OVER DEATH STAR INTERCOM": 1
+    },
+    "INT. DEATH STAR - DOCKING BAY 2037": {
+        "OFFICER": 5,
+        "VOICE": 1,
+        "VADER": 3
+    },
+    "INT. DEATH STAR - HANGAR 2037": {
+        "OFFICER": 1
+    },
+    "INT. MILLENNIUM FALCON - HALLWAY": {
+        "LUKE": 1,
+        "HAN": 2,
+        "BEN": 2
+    },
+    "INT. DEATH STAR - MAIN FORWARD BAY": {
+        "TROOPER": 1,
+        "HAN'S VOICE": 1,
+        "THREEPIO": 1,
+        "HAN": 3,
+        "LEIA": 1,
+        "LUKE": 1
+    },
+    "INT. DEATH STAR - FORWARD BAY - COMMAND OFFICE": {
+        "GANTRY OFFICER": 2,
+        "LUKE": 24,
+        "HAN": 20,
+        "THREEPIO": 8,
+        "BEN": 4
+    },
+    "INT. DEATH STAR - DETENTION AREA - ELEVATOR TUBE": {
+        "LUKE": 1
+    },
+    "INT. DEATH STAR - INTERIOR ELEVATOR - DETENTION SECURITY": {
+        "AREA": 1,
+        "HAN": 2,
+        "LUKE": 1
+    },
+    "INT. DETENTION AREA": {
+        "OFFICER": 2,
+        "LUKE": 2,
+        "HAN": 7,
+        "INTERCOM VOICE": 3
+    },
+    "INT. DEATH STAR - CELL ROW": {
+        "LEIA": 3,
+        "LUKE": 3
+    },
+    "INT. DEATH STAR - DETENTION AREA - HALLWAY": {
+        "HAN": 4,
+        "LEIA": 1,
+        "LUKE": 2,
+        "THREEPIO": 1
+    },
+    "INT. DEATH STAR - MAIN BAY GANTRY - CONTROL TOWER": {
+        "THREEPIO": 2,
+        "TROOPER VOICE": 1
+    },
+    "INT. DEATH STAR - GARBAGE ROOM": {
+        "HAN": 11,
+        "LUKE": 17,
+        "LEIA": 9
+    },
+    "INT. DEATH STAR - MAIN GANTRY - COMMAND OFFICE": {
+        "FIRST TROOPER": 1,
+        "THREEPIO": 3,
+        "FIRST OFFICER": 1,
+        "TROOPER": 1
+    },
+    "INT. DEATH STAR - MAIN FORWARD BAY - SERVICE PANEL": {
+        "THREEPIO": 8,
+        "LUKE": 3,
+        "HAN": 1
+    },
+    "INT. DEATH STAR - UNUSED HALLWAY": {
+        "HAN": 6,
+        "LUKE": 1,
+        "LEIA": 3
+    },
+    "INT. DEATH STAR - POWER TRENCH": {
+        "OFFICER": 1,
+        "FIRST TROOPER": 3,
+        "SECOND TROOPER": 2
+    },
+    "INT. DEATH STAR - HALLWAY": {
+        "HAN": 6,
+        "LUKE": 6,
+        "THREEPIO": 1,
+        "LEIA": 3,
+        "FIRST TROOPER": 1,
+        "BEN'S VOICE": 1
+    },
+    "INT. DEATH STAR - CENTRAL CORE SHAFT": {
+        "LUKE": 4,
+        "LEIA": 5
+    },
+    "INT. DEATH STAR - CORRIDOR - BLAST SHIELDS DOOR": {
+        "TROOPER": 2
+    },
+    "INT. DEATH STAR - HALLWAY LEADING TO MAIN FORWARD BAY": {
+        "VADER": 3,
+        "BEN": 2
+    },
+    "INT. DEATH STAR - DOCKING BAY": {
+        "THREEPIO": 1
+    },
+    "INT. MILLENNIUM FALCON - SOLO'S GUNPORT": {
+        "HAN": 1
+    },
+    "INT. MILLENNIUM FALCON - COCKPIT.": {
+        "LEIA": 1
+    },
+    "INT. MILLENNIUM FALCON - COCKPIT - POV (POINT OF VIEW) -": {
+        "SPACE": 1
+    },
+    "INT. MILLENNIUM FALCON - GUNPORTS": {
+        "LUKE": 2,
+        "HAN": 1
+    },
+    "INT. MILLENNIUM FALCON - MAIN PASSAGEWAY": {
+        "THREEPIO": 1
+    },
+    "INT. MILLENNIUM FALCON - COCKPIT - GUNPORTS": {
+        "LEIA": 1,
+        "HAN": 2
+    },
+    "INT. MILLENNIUM FALCON - GUNPORT": {
+        "LUKE": 1,
+        "LEIA": 1
+    },
+    "INT. MILLENNIUM FALCON - PASSAGEWAY": {
+        "THREEPIO": 1
+    },
+    "INT. MASSASSI - MAIN HANGAR DECK": {
+        "WILLARD": 2,
+        "LEIA": 1
+    },
+    "INT. MASSASSI - WAR ROOM BRIEFING AREA": {
+        "DODONNA": 5,
+        "GOLD LEADER": 1,
+        "WEDGE": 1,
+        "LUKE": 1
+    },
+    "INT. DEATH STAR": {
+        "DEATH STAR INTERCOM VOICE": 2,
+        "VADER": 3,
+        "ASTRO-OFFICER": 1,
+        "INTERCOM VOICE": 2
+    },
+    "INT. MASSASSI OUTPOST - MAIN HANGAR DECK": {
+        "MAN'S VOICE": 1,
+        "LUKE": 3,
+        "HAN": 4
+    },
+    "INT. MAIN HANGAR DECK - LUKE'S SHIP": {
+        "LEIA": 2,
+        "LUKE": 6,
+        "BIGGS": 4,
+        "RED LEADER": 2,
+        "CHIEF": 2,
+        "THREEPIO": 2,
+        "BEN'S VOICE": 1
+    },
+    "INT. MASSASSI OUTPOST - WAR ROOM": {
+        "MASSASSI INTERCOM VOICE": 3,
+        "WEDGE": 4,
+        "RED LEADER": 5,
+        "CONTROL OFFICER": 1,
+        "BIGGS": 3,
+        "RED TEN": 1,
+        "GOLD LEADER": 2,
+        "GOLD FIVE": 1,
+        "RED NINE'S VOICE": 1,
+        "LUKE": 3,
+        "THREEPIO": 1,
+        "BASE VOICE": 1,
+        "HAN": 1
+    },
+    "INT. RED LEADER STARSHIP - COCKPIT": {
+        "RED LEADER": 1
+    },
+    "INT. ANOTHER COCKPIT": {
+        "RED TEN": 1,
+        "RED LEADER": 1
+    },
+    "INT. BIGGS' COCKPIT": {
+        "RED SEVEN": 1,
+        "BIGGS": 6,
+        "READ LEADER": 1
+    },
+    "INT. PORKINS' COCKPIT": {
+        "PORKINS": 1,
+        "RED NINE": 1
+    },
+    "INT. WEDGE'S FIGHTER - COCKPIT": {
+        "WEDGE": 1
+    },
+    "INT. LUKE'S X-WING FIGHTER - COCKPIT": {
+        "RED ELEVEN": 1,
+        "LUKE": 12,
+        "RED LEADER": 3,
+        "BIGGS": 1,
+        "WEDGE": 1,
+        "GOLD FIVE": 1,
+        "RED LEADER'S VOICE": 1,
+        "BEN'S VOICE": 1
+    },
+    "INT. RED LEADER'S FIGHTER - COCKPIT": {
+        "RED LEADER": 1
+    },
+    "INT. RED LEADER'S COCKPIT": {
+        "RED LEADER": 14,
+        "BIGGS": 1,
+        "DODONNA": 1,
+        "LUKE": 1
+    },
+    "INT. WEDGE'S COCKPIT": {
+        "WEDGE": 5,
+        "RED LEADER": 1
+    },
+    "INT. GOLD LEADER'S COCKPIT": {
+        "GOLD LEADER": 2,
+        "RED LEADER": 1
+    },
+    "INT. READ LEADER'S X-WING FIGHTER - COCKPIT - TRAVELING": {
+        "RED LEADER": 1
+    },
+    "INT. LUKE'S X-WING - COCKPIT - TRAVELING": {
+        "LUKE": 3,
+        "RED LEADER": 1
+    },
+    "INT. RED LEADER'S X-WING - COCKPIT - TRAVELING": {
+        "RED LEADER": 1
+    },
+    "INT. BIGGS' COCKPIT - TRAVELING": {
+        "BIGGS": 1
+    },
+    "INT. X-WING FIGHTER - COCKPIT - TRAVELING": {
+        "LUKE": 1
+    },
+    "INT. LUKE'S X-WING FIGHTER - COCKPIT - TRAVELING": {
+        "LUKE": 1
+    },
+    "EXT. LUKE'S X-WING FIGHTER": {
+        "LUKE'S VOICE": 1,
+        "LUKE": 1
+    },
+    "INT. LUKE'S X-WING - COCKPIT": {
+        "RED LEADER": 1,
+        "LUKE": 3,
+        "WEDGE": 1,
+        "BEN'S VOICE": 3
+    },
+    "INT. GOLD LEADER'S Y-WING - COCKPIT": {
+        "GOLD LEADER": 9
+    },
+    "INT. DARTH VADER'S COCKPIT": {
+        "VADER": 8,
+        "WINGMAN'S VOICE": 1
+    },
+    "INT. GOLD TWO'S Y-WING - COCKPIT": {
+        "GOLD TWO": 2
+    },
+    "EXT. GOLD FIVE'S COCKPIT": {
+        "GOLD FIVE": 1
+    },
+    "INT. GOLD FIVE'S Y-WING - COCKPIT": {
+        "GOLD FIVE": 4
+    },
+    "INT. READ LEADER'S COCKPIT": {
+        "RED LEADER": 1
+    },
+    "INT. RED TEN'S COCKPIT": {
+        "RED TEN": 3,
+        "LUKE": 1
+    },
+    "EXT. SPACE - DEATH STAR TRENCH": {
+        "RED TEN'S VOICE": 1
+    },
+    "INT. RED TEN'S COCKPIT.": {
+        "RED TEN": 1
+    },
+    "INT. LUKE'S COCKPIT": {
+        "WEDGE": 1
+    },
+    "INT. LUKE'S X-WING FIGHTER": {
+        "BIGGS": 1
+    },
+    "INT. WINGMAN'S COCKPIT": {
+        "WINGMAN": 1
+    },
+    "INT. MASSASSI OUTPOST - MAIN HANGAR": {
+        "LEIA": 2,
+        "HAN": 2,
+        "LUKE": 3,
+        "THREEPIO": 2,
+        "TECHNICIAN": 1
+    },
+    "INT. MASSASSI OUTPOST - MAIN THRONE ROOM": {
+        "FADE OUT:": 1,
+        "END CREDITS OVER STARS": 1,
+        "THE END": 1,
+        "Writers": 1,
+        "Genres": 1
+    }
+}
